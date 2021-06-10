@@ -1,0 +1,6 @@
+!.gitignore
+
+#build files
+/screenShot/.vs/
+/screenShot/Release/
+/screenShot/Debug/
