@@ -1,0 +1,6 @@
+LIBRARY
+
+EXPORTS
+API_QSV_Init
+API_QSV_Encode
+API_QSV_Close
